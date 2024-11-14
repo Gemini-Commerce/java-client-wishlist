@@ -6,7 +6,7 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**wishlist**| [**List<WishlistWishlistResponse>**](WishlistWishlistResponse.md) |   | [optional]
+**wishlist**| [**List<WishlistWishlistResponse>**](WishlistWishlistResponse.md) |   | [optional] [default to new ArrayList<>()]
 **nextPageToken**| **String** |   | [optional]
 
 

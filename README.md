@@ -2,7 +2,8 @@
 
 Wishlist Service
 - API version: v1
-  - Build date: 2024-02-29T10:50:13.759631386Z[Etc/UTC]
+  - Build date: 2024-11-14T11:43:44.768236855Z[Etc/UTC]
+  - Generator version: 7.9.0
 
 API for managing wishlists
 
@@ -40,7 +41,7 @@ Add this dependency to your project's POM:
 <dependency>
   <groupId>org.openapitools</groupId>
   <artifactId>openapi-java-client</artifactId>
-  <version>1.2.0</version>
+  <version>v1</version>
   <scope>compile</scope>
 </dependency>
 ```
@@ -56,7 +57,7 @@ Add this dependency to your project's build file:
   }
 
   dependencies {
-     implementation "org.openapitools:openapi-java-client:1.2.0"
+     implementation "org.openapitools:openapi-java-client:v1"
   }
 ```
 
@@ -70,7 +71,7 @@ mvn clean package
 
 Then manually install the following JARs:
 
-* `target/openapi-java-client-1.2.0.jar`
+* `target/openapi-java-client-v1.jar`
 * `target/lib/*.jar`
 
 ## Getting Started
@@ -80,11 +81,11 @@ Please follow the [installation](#installation) instruction and execute the foll
 ```java
 
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import org.openapitools.client.model.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {

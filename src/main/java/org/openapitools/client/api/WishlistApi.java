@@ -13,14 +13,14 @@
 
 package org.openapitools.client.api;
 
-import GeminiCommerce_Wishlist.ApiCallback;
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.ApiResponse;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.Pair;
-import GeminiCommerce_Wishlist.ProgressRequestBody;
-import GeminiCommerce_Wishlist.ProgressResponseBody;
+import GeminiCommerce.Wishlist.ApiCallback;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.ApiResponse;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.Pair;
+import GeminiCommerce.Wishlist.ProgressRequestBody;
+import GeminiCommerce.Wishlist.ProgressResponseBody;
 
 import com.google.gson.reflect.TypeToken;
 

@@ -31,11 +31,11 @@ All URIs are relative to *https://wishlist.api.gogemini.io*
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -99,11 +99,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -167,11 +167,11 @@ Sharing endpoints
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -235,11 +235,11 @@ BulkRemoveItemsFromWishlists removes items from wishlists.
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -303,11 +303,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -371,11 +371,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -439,11 +439,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -507,11 +507,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -575,11 +575,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -643,11 +643,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -711,11 +711,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -779,11 +779,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -847,11 +847,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -915,11 +915,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -983,11 +983,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
@@ -1051,11 +1051,11 @@ public class Example {
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Wishlist.ApiClient;
-import GeminiCommerce_Wishlist.ApiException;
-import GeminiCommerce_Wishlist.Configuration;
-import GeminiCommerce_Wishlist.auth.*;
-import GeminiCommerce_Wishlist.models.*;
+import GeminiCommerce.Wishlist.ApiClient;
+import GeminiCommerce.Wishlist.ApiException;
+import GeminiCommerce.Wishlist.Configuration;
+import GeminiCommerce.Wishlist.auth.*;
+import GeminiCommerce.Wishlist.models.*;
 import org.openapitools.client.api.WishlistApi;
 
 public class Example {
