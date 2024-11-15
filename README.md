@@ -2,7 +2,7 @@
 
 Wishlist Service
 - API version: v1
-  - Build date: 2024-11-14T11:43:44.768236855Z[Etc/UTC]
+  - Build date: 2024-11-15T15:21:43.810950213Z[Etc/UTC]
   - Generator version: 7.9.0
 
 API for managing wishlists

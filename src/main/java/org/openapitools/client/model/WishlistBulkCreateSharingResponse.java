@@ -51,7 +51,7 @@ import GeminiCommerce.Wishlist.JSON;
 /**
  * WishlistBulkCreateSharingResponse
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-14T11:43:44.768236855Z[Etc/UTC]", comments = "Generator version: 7.9.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-15T15:21:43.810950213Z[Etc/UTC]", comments = "Generator version: 7.9.0")
 public class WishlistBulkCreateSharingResponse {
   public static final String SERIALIZED_NAME_SHARING_RESPONSES = "sharingResponses";
   @SerializedName(SERIALIZED_NAME_SHARING_RESPONSES)
